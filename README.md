@@ -1,2 +1,1 @@
-# git-learning
-This is to learn git
+git push commit pull request etc learing
