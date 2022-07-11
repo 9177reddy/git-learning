@@ -1,1 +1,1 @@
-git push commit pull request etc learing
+git push commit pull request etc learning.
