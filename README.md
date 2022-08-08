@@ -1,2 +1,4 @@
-git push commit pull request etc learing
-123456789
+#1/bin/bash
+
+echo "this is master branch"
+echo "chech hooks"
